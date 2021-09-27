@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/css/main.92bc1f0d.chunk.css",
+    "main.js": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/main.a4be347d.chunk.js",
+    "main.js.map": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/main.a4be347d.chunk.js.map",
+    "runtime-main.js": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/runtime-main.e498762f.js",
+    "runtime-main.js.map": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/runtime-main.e498762f.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://i-dont-have-any-good-names.github.io/csb-msw6r/index.html",
+    "static/css/main.92bc1f0d.chunk.css.map": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/css/main.92bc1f0d.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://i-dont-have-any-good-names.github.io/csb-msw6r/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e498762f.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.92bc1f0d.chunk.css",
+    "static/js/main.a4be347d.chunk.js"
+  ]
+}
